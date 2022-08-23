@@ -1,0 +1,16 @@
+FOR SERVER, HAD TO INSTALL:
+
+MORGAN
+    middleware
+
+EXPRESS
+    node framework
+
+DOTENV
+    loads environment variables (think port)
+
+CORS
+    another middleware
+
+PG (POSTGRES)
+    postgres client

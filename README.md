@@ -10,3 +10,7 @@ PostgreSQL
 Express
 React
 NodeJS
+
+Thanks for looking!
+
+![PSMainPage](https://user-images.githubusercontent.com/111920505/201956282-2546f8ed-6770-4c8d-8025-9152b1e0f83a.png)

@@ -1,5 +1,5 @@
 # for server node_modules
-node_modules/
+/node_modules
 
 # PRIVATE INFO REGARDING API KEYS AND SUCH
 .env
